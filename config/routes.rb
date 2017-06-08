@@ -13,7 +13,7 @@ Rails.application.routes.draw do
 
   # get 'blog' => 'landing#blog'
 
-  get 'blog' => 'posts#index'
+  # get 'blog' => 'posts#index'
 
   get 'iot' => 'landing#iot'
 
